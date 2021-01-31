@@ -207,7 +207,10 @@ footer ul li {
 	clear: both;
 	height: 0;
 }
-
+td{
+	margin: 2px;
+	border: double red; 
+}
 @media all and (max-width: 760px) {
 	header h1#logo {
 		display: block;
