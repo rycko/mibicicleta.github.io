@@ -11,6 +11,8 @@
   gtag('config', 'G-T74FRF0R7T');
 </script>
   <title>Mi Bicicleta</title>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+<script src="dist/jquery.cookieMessage.min.js"></script>
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <script type="text/javascript" src="js/script.js"></script>
 </head>
@@ -19,14 +21,23 @@
   <header id="js-header">
       <div class="container clearfix">
           <h1 id="logo">MiBicicleta</h1>
+
           <nav>
-              <a href="#bacon">Inicio</a>
+              <a href="index.html">Inicio</a>
+              <a href="rodillo-para-bicicleta.html">Rodillos para bicicleta</a>
           </nav>
       </div>
   </header>
 
   <div id="main">
       <div id="content">
+        <section>
+              <div class="container">
+                <div class="banner">
+                  <img src="img/Mi Bicicleta.png" style="width: 100%;">
+                </div>
+              </div>
+            </section>
           <section>
               <div class="container">
                   <h1>La bicicleta</h1>
@@ -68,17 +79,26 @@ Andar en bicicleta es divertido y gratificante, es ideal para compartir con amig
      </div>
   </div>
    <footer>
+    <script type="text/javascript">
+      $.cookieMessage({
+          'mainMessage': 'Utilizamos cookies propias para garantizar la mejor experiencia a nuestros usuarios, elaborar información estadística y mejorar el rendimiento de nuestro sitio web. Si clicas en Aceptar o continúas navegando, estarás aceptando los términos indicados en nuestra <a href="politicas-de-privacidad.html">Política de coockies</a>. ',
+          'acceptButton': 'Aceptar',
+          'fontSize': '16px',
+          'backgroundColor': '#222',
+      });
+      </script>
         <div class="container clearfix">
           <div class ="col" id="col-1">
             <ul>
               <li>MI BICICLETA</li>
-              <li><a href="#0">Inicio</a></li>
+              <li><a href="index.html">Inicio</a></li>
+              <li><a href="rodillo-para-bicicleta.html">Rodillos para bicicleta</a></li>
             </ul>
           </div>
           <div  class ="col" id="col-2">
             <ul>
               <li>REDES SOCIALES</li>
-              <li><a href="#0">Facebook</a></li> 
+              <li><a href="https://www.facebook.com/Mi-Bicicleta-341020050363516">Facebook</a></li> 
             </ul>
           </div>
           
