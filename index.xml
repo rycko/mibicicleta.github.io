@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi Bicicleta</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Mi Bicicleta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2021, Rycko.</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rodillo-para-bicicleta</title>
+      <link>https://example.com/rodillo-para-bicicleta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/rodillo-para-bicicleta/</guid>
+      <description>Rodillo para bicicleta Los rodillos para bicicleta son la alternativa perfecta para poder pedalear en casa y disfrutar del ciclismo en cualquier momento.
+Ya sea porque hace mal tiempo o causas de fuerza mayor como la que estamos viviendo, con el rodillo siempre podremos subirnos a la bici y dar unos pedales.
+Pero no todos los rodillos son iguales y cada uno tiene sus virtudes y desventajas.
+ Bicicletas estáticas (Spinning) Aunque las bicis de spinning y estáticas no son rodillos en sí también me gustaría mencionarlos y hablar de esta posibilidad ya que algunos ciclistas prefieren esta opción, estos aparatos son más típicos de gimnasios, estos aparatos suelen ocupar mucho espacio y el precio también es más elevado, el desgaste por uso no se produce en tu bicicleta sino en la propia spinning, es recomendable para las personas que no quieran meter su bicicleta a la vivienda y no disponga de una bicicleta de carretera o ruedas de carretera.</description>
+    </item>
+    
+  </channel>
+</rss>
