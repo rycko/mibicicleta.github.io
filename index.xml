@@ -8,7 +8,18 @@
     <language>en-US</language>
     <copyright>Copyright © 2021, Rycko.</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>rodillo-para-bicicleta</title>
+      <title>Cascos para bicicleta</title>
+      <link>https://example.com/cascos-para-bicicleta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/cascos-para-bicicleta/</guid>
+      <description>Cascos para bicicleta Creemos que el uso del casco es una decisión personal. Tanto si has decidido usarlo como si es una obligación en tu ciudad, aquí te presentamos algunos consejos para elegir el casco perfecto para ti.
+  
+Tipos de cascos para bicicletas Los diferentes tipos de cascos son adecuados para todas las ramas de la bicicleta. Pero cuando se trata de bicicletas de ciudad y de paseo, existen tres tipos que se adaptan a tus necesidades y estilo.</description>
+    </item>
+    
+    <item>
+      <title>Rodillo para bicicleta</title>
       <link>https://example.com/rodillo-para-bicicleta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
