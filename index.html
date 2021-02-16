@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="es">
 
 <head>
 	<meta name="generator" content="Hugo 0.80.0" />
@@ -184,6 +184,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .topnav .icon {
     display: none;
   }
+  #cookie-msg{
+    padding: 20px 5px;
+    left: 0;
+  }
   @media (prefers-color-scheme: dark) {
     body {
       background-color: #333;
@@ -263,6 +267,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   }
 }
 </script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+<script src="dist/jquery.cookieMessage.min.js"></script>
 </head>
 
 <body>
@@ -271,7 +277,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <header><a href="/" class="title">
-  <h2>Mi Bicicleta</h2>
+  <img src="/images/logo-mi-bicicleta.png" width="25%" alt="mibicicleta.site">
 </a>
 <nav class="topnav" id="myTopnav"><a class="btn-menu" id="btn-menu" href="/">Inicio</a>
 
@@ -307,7 +313,7 @@ Andar en bicicleta es divertido y gratificante, es ideal para compartir con amig
   </main>
   <footer><script type="text/javascript">
       $.cookieMessage({
-          'mainMessage': 'Utilizamos cookies propias para garantizar la mejor experiencia a nuestros usuarios, elaborar información estadística y mejorar el rendimiento de nuestro sitio web. Si clicas en Aceptar o continúas navegando, estarás aceptando los términos indicados en nuestra <a href="politicas-de-privacidad.html">Política de coockies</a>. ',
+          'mainMessage': 'Utilizamos cookies propias para garantizar la mejor experiencia a nuestros usuarios, elaborar información estadística y mejorar el rendimiento de nuestro sitio web. Si clicas en Aceptar o continúas navegando, estarás aceptando los términos indicados en nuestra <a href="/politicas-de-privacidad">Política de privacidad</a>. ',
           'acceptButton': 'Aceptar',
           'fontSize': '16px',
           'backgroundColor': '#222',

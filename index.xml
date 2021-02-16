@@ -5,9 +5,19 @@
     <link>https://mibicicleta.site/</link>
     <description>Recent content on Mi Bicicleta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>es</language>
     <copyright>Copyright © 2021, Rycko.</copyright>
     <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mibicicleta.site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Políticas de privacidad</title>
+      <link>https://mibicicleta.site/politicas-de-privacidad/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mibicicleta.site/politicas-de-privacidad/</guid>
+      <description>Política de privacidad Qué datos personales recogemos y por qué los recogemos Comentarios Cuando los visitantes dejan comentarios en la web, recopilamos los datos que se muestran en el formulario de comentarios, así como la dirección IP del visitante y la cadena de agentes de usuario del navegador para ayudar a la detección de spam.
+Medios Si subes imágenes a la web deberías evitar subir imágenes con datos de ubicación (GPS EXIF) incluidos.</description>
+    </item>
+    
     <item>
       <title>¿Cuantos kilometros debo andar en bicicleta para estar en forma?</title>
       <link>https://mibicicleta.site/cuantos-kilometros-debo-andar-en-bicicleta-para-estar-en-forma/</link>
